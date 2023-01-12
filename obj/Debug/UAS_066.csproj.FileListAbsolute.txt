@@ -1,0 +1,8 @@
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\bin\Debug\UAS_066.exe.config
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\bin\Debug\UAS_066.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\bin\Debug\UAS_066.pdb
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\obj\Debug\UAS_066.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\obj\Debug\UAS_066.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\obj\Debug\UAS_066.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\obj\Debug\UAS_066.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\UAS_066\obj\Debug\UAS_066.pdb
